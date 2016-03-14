@@ -1,5 +1,7 @@
 # NodeBB MagicBlock plugin
 
+[![Join the chat at https://gitter.im/qgp9/nodebb-plugin-magicblock](https://badges.gitter.im/qgp9/nodebb-plugin-magicblock.svg)](https://gitter.im/qgp9/nodebb-plugin-magicblock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 NodeBB Plugin for macros, format, embeding.
 
 * Discussion and examples at [NodeBB Forum](https://community.nodebb.org/topic/8098/some-ideas-and-on-going-development-of-new-plugin-called-magicblock)
